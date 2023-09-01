@@ -56,3 +56,7 @@ Esta tarea consiste en la impresion de diferentes triangulos
        * * * 
        * *
        *
+## Lenguajes de desarollo
+* Python
+* C++
+* PSeint
